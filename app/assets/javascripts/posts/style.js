@@ -6,6 +6,8 @@ $(document).on('turbolinks:load', function() {
               $(this).addClass("solid-color-mode");
               $(this).css('background-color', randomColor());
           });
+          console.log("dfsgdgdfgdfgd");
+          
       }
       // set a border color style
       else {
